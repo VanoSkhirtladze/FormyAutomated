@@ -11,7 +11,6 @@ public class TestPlan {
 
     @BeforeSuite
     public static void main(String[] args) {
-        // ChromeDriver location set up in Utils class
         System.setProperty("webdriver.chrome.driver", Utils.CHROME_DRIVER_LOCATION);
     }
 
