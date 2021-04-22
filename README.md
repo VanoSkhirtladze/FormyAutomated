@@ -1,6 +1,6 @@
 ## Web Form
 ***Web Form-ის ავტომატიზაცია*** - https://formy-project.herokuapp.com/form
-***გამოყენებულია: Selenium, ChromeDriver, Maven, TestNG ***
+***გამოყენებულია: Selenium, ChromeDriver, Maven, TestNG***
 
 ვახდენთ ავტომატიზაციას შემდეგი მონაცემების:
 - First Name
